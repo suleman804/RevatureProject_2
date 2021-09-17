@@ -40,6 +40,7 @@ The preprocessing code is given in the preprocessing file.
 - Python
 - MySQL
 - Sqoop
+- CDH5
 ## Contributions :
 - Eswar - Data Analytics
 - Suleman - Data Collection and Preprocessing
